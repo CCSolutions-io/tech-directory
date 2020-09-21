@@ -25,4 +25,6 @@ Además, la idea es tener a integrantes del equipo, que se encarguen de las Pipe
 ### Stages
 Ya que la idea es trabajar en Kubernetes, se podrán crear varios stages (dev, test y prod) done dependiendo de los resultados de los Tests, se hará el deployment de la aplicación.
 
-!!! Tengamos presente, que es un proyecto de tiempo libre, lo cual no le quita que podamos encararlo de la forma más profesional posible y que al final de este cada integrante del equipo pueda decir feliz, que aprendió X o Y cosa en el proyecto.
+## Notas
+
+**!!! Tengamos presente, que es un proyecto de tiempo libre, lo cual no le quita que podamos encararlo de la forma más profesional posible y que al final de este cada integrante del equipo pueda decir feliz, que aprendió X o Y cosa en el proyecto. !!!**
