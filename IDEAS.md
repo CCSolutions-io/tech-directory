@@ -9,6 +9,8 @@
 - Tal vez in sistema de Post o Blogs
 
 ## Formas de Trabajo
+
+### Scrum
 Para poner en práctica lo que toda empresa busca, deberíamos de trabajar de forma ágil con Scrum. Cada Servicio tendrá su propio equipo, la idea es que cada equipo este conformado por:
 
 -	Product owner
@@ -20,4 +22,7 @@ También existirá el roll del o los Scrum Master, para así poder coordinar el 
 
 Además, la idea es tener a integrantes del equipo, que se encarguen de las Pipeline, la infraestructura y la base de datos. Como todo proyecto, deberíamos tener también a los “business analyst”, los cuales se centrarán en el proyecto desde el punto de vista de usuario.
 
-Tengamos presente, que es un proyecto de tiempo libre, lo cual no le quita que podamos encararlo de la forma más profesional posible y que al final de este cada integrante del equipo pueda decir feliz, que aprendió X o Y cosa en el proyecto.
+### Stages
+Ya que la idea es trabajar en Kubernetes, se podrán crear varios stages (dev, test y prod) done dependiendo de los resultados de los Tests, se hará el deployment de la aplicación.
+
+!!! Tengamos presente, que es un proyecto de tiempo libre, lo cual no le quita que podamos encararlo de la forma más profesional posible y que al final de este cada integrante del equipo pueda decir feliz, que aprendió X o Y cosa en el proyecto.
